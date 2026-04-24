@@ -1,0 +1,608 @@
+{
+  "records": [
+    {
+      "question": "In a scenario where a satellite operator is legally liable for damages caused by a collision in low Earth orbit, how would principles of Newtonian mechanics and international space law intersect to de",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "When designing a quantum computing algorithm that requires error correction using surface code techniques, how would you optimize the logical qubit layout to minimize the number of physical qubits req",
+      "sic_score": 0.0556,
+      "base_score": 0.0656,
+      "delta": -0.01
+    },
+    {
+      "question": "In the context of genetic modification, how do the legal frameworks governing biotechnology patents in the European Union compare to those in the United States, particularly regarding the patent eligi",
+      "sic_score": 0.0723,
+      "base_score": 0.0723,
+      "delta": 0.0
+    },
+    {
+      "question": "How can I branch in SVN using TortoiseSVN on Windows while ensuring that the svn:external folders are also branched, and what are the legal implications regarding the licensing of the software and any",
+      "sic_score": 0.0552,
+      "base_score": 0.0423,
+      "delta": 0.0129
+    },
+    {
+      "question": "Consider a scenario where a software developer is tasked with creating a function in C++ that processes a string and returns both a boolean indicating success and the modified string. Simultaneously, ",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In designing an enclosed 3D printer that accommodates standard 1 kg filament bobbins, what engineering considerations must be addressed to ensure compliance with international product safety regulatio",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How does the economic theory of externalities apply to the biological process of nutrient cycling in ecosystems, particularly in the context of overfishing and its impact on marine biodiversity?",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "You are tasked with analyzing a C++ .Net application that is generating 104 warnings of type C4341, where signed values are out of range for enum constants, while also considering the economic implica",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "A 3-year-old girl is brought to the emergency department by her parents with sudden onset shortness of breath. They tell the emergency physician that their daughter was lying on the bed watching telev",
+      "sic_score": 0.0556,
+      "base_score": 0.0556,
+      "delta": 0.0
+    },
+    {
+      "question": "How can quantum entanglement principles be leveraged to design a more secure and efficient consensus algorithm for decentralized blockchain networks?",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "A 17-year-old girl presents with numbness around her mouth and uncontrolled twitching for 30 minutes, symptoms that began at a concert. If she were to require emergency intervention, what legal consid",
+      "sic_score": 0.0904,
+      "base_score": 0.0659,
+      "delta": 0.0245
+    },
+    {
+      "question": "How can the uneven adhesion of a 3D printed object caused by inconsistent bed temperature be addressed using a regular expression to validate and parse timestamped sensor data from the printer's firmw",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "If a 65-year-old female with chronic renal failure presents with recent onset of bone pain and elevated parathyroid hormone levels, how might the design of a 3D printer's motor control system, such as",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "I'm having problems refreshing .Net 2.0 with IIS 6. I have been able to successfully execute 'aspnet_regiis.exe -i', but when I try to register the aspnet_isapi.dll, I encounter errors. Additionally, ",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How might a nationwide implementation of a universal basic income (UBI) in the United States impact the healthcare system, particularly in terms of public health outcomes and the economic burden on ho",
+      "sic_score": 0.0656,
+      "base_score": 0.0437,
+      "delta": 0.0219
+    },
+    {
+      "question": "How would you design a system that uses a Bowden extruder, which requires precise control of mechanical forces and motion, in conjunction with a C# application that processes Packed Decimal (COMP-3) f",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How can one design a resonant cavity for a particle accelerator that operates at terahertz frequencies while ensuring structural integrity under extreme thermal gradients caused by high-intensity elec",
+      "sic_score": 0.0674,
+      "base_score": 0.0698,
+      "delta": -0.0024
+    },
+    {
+      "question": "When attempting to install the Scalar::Util::Numeric module via CPAN, I encountered an error that might be related to the Perl version or system dependencies. How can I resolve this issue while ensuri",
+      "sic_score": 0.0663,
+      "base_score": 0.0559,
+      "delta": 0.0104
+    },
+    {
+      "question": "How does the economic theory of comparative advantage influence the global trade dynamics of biopharmaceutical products, particularly in the context of patent laws and the biological processes involve",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "Considering the quantum mechanical principles governing electron spin resonance in magnetic fields, how might the structural and functional properties of myoglobin's heme group influence the efficienc",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In engineering, materials like ABS and PETG are used in 3D printing for various applications, but ABS has shown failure under constant load in plumbing applications. From an economic perspective, how ",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of quantum mechanics, how does the principle of superposition interact with the legal concept of 'stare decisis' when considering the interpretation of case law in a probabilistic legal",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How can a developer implement a command-line tool or macro that recursively updates a solution's dependencies, similar to the 'Get Latest Version' feature in Visual Studio's Solution Explorer, while a",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of a 5-year-old boy presenting with difficulty breathing after playing in the snow, how does the physics of respiratory mechanics, particularly the role of airway resistance and Bernoul",
+      "sic_score": 0.1176,
+      "base_score": 0.1111,
+      "delta": 0.0065
+    },
+    {
+      "question": "A 32-year-old female with Crohn's disease diagnosed in her early 20s comes to your office for a follow-up appointment. She is complaining of headaches and fatigue. Considering her medical history, whi",
+      "sic_score": 0.0947,
+      "base_score": 0.1071,
+      "delta": -0.0125
+    },
+    {
+      "question": "A patient presents with high-grade fever, headache, and photophobia. Given the patient's symptoms, what biological mechanisms could explain the headache and photophobia, and how might these symptoms r",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How might the economic implications of a widespread shift toward plant-based diets, driven by concerns over environmental sustainability and health, influence agricultural market structures and the ge",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How can the principles of quantum entanglement in physics be applied to improve the synchronization and communication efficiency between the Anycubic Kossel Linear Plus 3D printer's firmware and the A",
+      "sic_score": 0.1071,
+      "base_score": 0.0819,
+      "delta": 0.0253
+    },
+    {
+      "question": "A 53-year-old woman with type 2 diabetes mellitus presents with fatigue, abdominal pain, and a history of an Ender 3 3D printer extruder issues. Considering both her medical condition and the engineer",
+      "sic_score": 0.0958,
+      "base_score": 0.0833,
+      "delta": 0.0125
+    },
+    {
+      "question": "In a jurisdiction where tort law governs personal injury claims, if a defendant is found to have violated a statute that was enacted to protect public safety, how does the principle of 'negligence per",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How does the quantum mechanical principle of superposition influence the behavior of ion channels in neuronal membranes, particularly in the context of action potential propagation and the role of vol",
+      "sic_score": 0.1117,
+      "base_score": 0.1117,
+      "delta": 0.0
+    },
+    {
+      "question": "Considering the principles of thermodynamics and market equilibrium, how does the efficiency of energy conversion in a heat engine relate to the concept of opportunity cost in resource allocation, and",
+      "sic_score": 0.069,
+      "base_score": 0.069,
+      "delta": 0.0
+    },
+    {
+      "question": "How does the principle of wave interference in physics relate to the diagnosis and treatment of urinary frequency in patients with prostate enlargement, considering the mechanical pressure changes in ",
+      "sic_score": 0.0732,
+      "base_score": 0.075,
+      "delta": -0.0018
+    },
+    {
+      "question": "How does the concept of opportunity cost in economics relate to the principle of conservation of energy in physics, and what implications does this have for resource allocation in a market economy wit",
+      "sic_score": 0.0874,
+      "base_score": 0.0874,
+      "delta": 0.0
+    },
+    {
+      "question": "How might the economic theory of externalities be applied to the biological process of nutrient cycling in ecosystems, particularly in the context of overfishing and its impact on marine biodiversity?",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "When implementing a Silverlight datagrid in C#, how can you ensure that the selection changed event does not interfere with data binding, while also complying with the legal requirements for user data",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How do genetic regulatory networks in biological systems compare to distributed computing architectures in computer science, particularly in terms of information processing, fault tolerance, and scala",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of genetic engineering, where a biotechnology firm is developing a CRISPR-based therapy to edit genes responsible for hereditary diseases, how does the legal framework governing patent ",
+      "sic_score": 0.1198,
+      "base_score": 0.1198,
+      "delta": 0.0
+    },
+    {
+      "question": "How might the economic model of paying 25% of the license cost as an annual maintenance fee for software, which typically includes free upgrades, influence the cost structure and accessibility of medi",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "Given that your Prusa Mk3 is producing a rough surface finish with PLA Prusament at 0.2mm layer height, and considering your Ender 3's modified hardware and PLA printing experience, how might the inte",
+      "sic_score": 0.0727,
+      "base_score": 0.0719,
+      "delta": 0.0009
+    },
+    {
+      "question": "In the context of international space law, how does the principle of jurisdiction over celestial bodies, as outlined in the Outer Space Treaty, interact with the physical phenomenon of orbital mechani",
+      "sic_score": 0.0824,
+      "base_score": 0.0667,
+      "delta": 0.0157
+    },
+    {
+      "question": "In designing a bioreactor for the continuous production of a recombinant protein using genetically modified E. coli, what engineering principles must be integrated with biological knowledge of bacteri",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "Given a 78-year-old man presenting with shortness of breath at rest and with exertion, difficulty breathing while lying down, and a history of chronic obstructive pulmonary disease (COPD), how might t",
+      "sic_score": 0.0892,
+      "base_score": 0.0897,
+      "delta": -0.0006
+    },
+    {
+      "question": "A 35-year-old man with no past medical history presents to his primary care physician with complaints of fatigue. He states that his life has been hectic lately and that everything seems to be falling",
+      "sic_score": 0.0447,
+      "base_score": 0.0442,
+      "delta": 0.0005
+    },
+    {
+      "question": "How does the economic theory of externalities apply to the physics of electromagnetic radiation in the context of 5G network deployment, considering both the cost-benefit analysis of infrastructure in",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How does the concept of metabolic flux in cellular respiration intersect with economic theories of resource allocation and opportunity cost, particularly in the context of optimizing energy usage in i",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of 3D printing filament extrusion issues, which may involve engineering challenges related to material flow and machine calibration, how do legal regulations regarding product liability",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "As a Java developer working on a medical application, how can I programmatically determine the application installation directory to default the file dialog, while considering potential patient data s",
+      "sic_score": 0.0485,
+      "base_score": 0.0238,
+      "delta": 0.0247
+    },
+    {
+      "question": "A 4630-g male newborn delivered via lower segment cesarean section at 38 weeks' gestation develops respiratory distress 20 minutes post-delivery, with Apgar scores of 7 and 8 at 1 and 5 minutes respec",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How might the implementation of a carbon tax, considering the principles of externalities in economics, intersect with existing legal frameworks regarding corporate liability for environmental damage,",
+      "sic_score": 0.0559,
+      "base_score": 0.0559,
+      "delta": 0.0
+    },
+    {
+      "question": "In the context of gene editing technologies like CRISPR-Cas9, how might international legal frameworks, such as the Convention on Biological Diversity, address the ethical and regulatory implications ",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How can CRISPR-Cas9 gene editing be engineered to ensure precise targeting and minimize off-target effects in complex genomic sequences, while also designing a scalable and robust delivery system for ",
+      "sic_score": 0.0719,
+      "base_score": 0.0964,
+      "delta": -0.0245
+    },
+    {
+      "question": "How can I ensure that a copyright notice in a web site's footer automatically updates the year while also considering the physical principles behind the material deformation of a 3D printed object's s",
+      "sic_score": 0.0442,
+      "base_score": 0.0444,
+      "delta": -0.0002
+    },
+    {
+      "question": "Given that the university uses Oracle for its database system and runs nightly programs to download data into local Access tables for testing, while also considering the need for cost-effective C# cod",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How might the economic implications of a potential biotechnology breakthrough in gene editing, such as CRISPR-Cas9, affect global markets and regulatory policies, considering the interplay between inn",
+      "sic_score": 0.0479,
+      "base_score": 0.0497,
+      "delta": -0.0018
+    },
+    {
+      "question": "Given a scenario where a .NET developer with a background in FoxPro/VB6/COM is tasked with creating a software system to track patient data related to cell apoptosis and host defense mechanisms in mic",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of design principles and legal frameworks, how does the concept of quantum entanglement in physics influence the interpretation of contractual obligations under international law, parti",
+      "sic_score": 0.0787,
+      "base_score": 0.0805,
+      "delta": -0.0018
+    },
+    {
+      "question": "How does the physics of laser cutting efficiency, particularly in terms of energy absorption and material thermal conductivity, influence the economic feasibility of scaling up laser-based manufacturi",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of biotechnology patents, how does the legal principle of 'obviousness' apply to the development of genetically modified organisms, particularly when considering the natural biological ",
+      "sic_score": 0.0578,
+      "base_score": 0.0578,
+      "delta": 0.0
+    },
+    {
+      "question": "In quantum computing, how can you implement a quantum gate that performs a unitary transformation on a qubit's state vector while ensuring the operation is reversible and can be efficiently simulated ",
+      "sic_score": 0.092,
+      "base_score": 0.0925,
+      "delta": -0.0005
+    },
+    {
+      "question": "If a company uses a Creaform3D EXAscan device connected to a computer running a software called RapidForm, and they implement a data model hierarchy using a parent attribute in a db.Model, how could t",
+      "sic_score": 0.0585,
+      "base_score": 0.0719,
+      "delta": -0.0134
+    },
+    {
+      "question": "How can one optimize a PHP script's performance while ensuring that the economic model of resource allocation aligns with the computational overhead of profiling tools?",
+      "sic_score": 0.08,
+      "base_score": 0.0787,
+      "delta": 0.0013
+    },
+    {
+      "question": "How can I implement a physics-based simulation of a Kossel Delta 3D printer's motion mechanics in a computer graphics application using Fusion 360, ensuring accurate kinematic modeling and real-time r",
+      "sic_score": 0.0568,
+      "base_score": 0.033,
+      "delta": 0.0239
+    },
+    {
+      "question": "A 32-year-old man with a history of major depressive disorder is brought to the emergency department by his wife because of a sudden onset of restlessness and disorientation that developed 3 hours ago",
+      "sic_score": 0.069,
+      "base_score": 0.0698,
+      "delta": -0.0008
+    },
+    {
+      "question": "When developing a web application using PHP that interacts with a 3D printing system, how can you efficiently manage and remove code from display pages for non-technical users while ensuring the backe",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "When a software developer encounters a 'CREATE DATABASE permission denied in database 'master'' error while attempting to attach an auto-named database file, and they need to configure custom company-",
+      "sic_score": 0.0667,
+      "base_score": 0.0667,
+      "delta": 0.0
+    },
+    {
+      "question": "When designing a new infrastructure project, how can principles of cost-benefit analysis from economics be integrated with engineering feasibility studies to ensure both technical viability and econom",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How does the principle of conservation of energy in physics relate to the process of ATP synthesis in cellular respiration, and what role do proton gradients play in both contexts?",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How can you use a modified DiscoEasy 200 from Dagoma, which has been heavily modified to include a custom signal processing algorithm, to analyze the genetic expression patterns of a specific set of g",
+      "sic_score": 0.0588,
+      "base_score": 0.0588,
+      "delta": 0.0
+    },
+    {
+      "question": "Considering the principles of electromagnetism and neural signal transmission, how might a sudden failure of axis motors in a 3D printer, while the extruder motor continues to function, be analogous t",
+      "sic_score": 0.0562,
+      "base_score": 0.0575,
+      "delta": -0.0013
+    },
+    {
+      "question": "If I were to develop a Python script that prepends text to each line of input, how might the economic principles of marginal cost and economies of scale influence the decision to use such a script ver",
+      "sic_score": 0.0936,
+      "base_score": 0.0925,
+      "delta": 0.0011
+    },
+    {
+      "question": "A 30-month-old boy presents with burns on his left hand, likely caused by unobserved exposure to a hot object in the kitchen. Considering the physics of heat transfer and the medical implications of b",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How would you design a database architecture that allows for efficient updates and enhancements across multiple client-specific databases in a web application, while also considering the challenges of",
+      "sic_score": 0.0663,
+      "base_score": 0.0538,
+      "delta": 0.0125
+    },
+    {
+      "question": "How does the concept of opportunity cost in economics relate to the principle of conservation of energy in physics, and what implications does this have for resource allocation in a closed system?",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "When implementing a closed-loop stepper motor system with a low-cost encoder for improved accuracy, what are the engineering considerations for integrating such a system into a product that will requi",
+      "sic_score": 0.0928,
+      "base_score": 0.1042,
+      "delta": -0.0114
+    },
+    {
+      "question": "How can the integration of lambda expressions in modern programming languages, which reduces the need for delegates or anonymous methods, impact the economic feasibility of software development projec",
+      "sic_score": 0.0874,
+      "base_score": 0.0847,
+      "delta": 0.0028
+    },
+    {
+      "question": "How can principles of linear advance and K factor influence in 3D printing physics be integrated into the design of a product-based CMS to ensure accurate modeling of physical properties in engineerin",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "When using ElementTree for XML parsing in an engineering context, how does proper escaping of HTML entities align with legal requirements for data integrity and compliance in regulated industries such",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of multi-threaded applications, how can deadlocks be legally addressed when they result in data corruption that violates contractual obligations under a software licensing agreement, co",
+      "sic_score": 0.0787,
+      "base_score": 0.0757,
+      "delta": 0.003
+    },
+    {
+      "question": "How might the economic principles of marginal cost and economies of scale influence the feasibility of bioprinting organs for widespread medical use, considering the biological challenges of vasculari",
+      "sic_score": 0.097,
+      "base_score": 0.0976,
+      "delta": -0.0006
+    },
+    {
+      "question": "How might the economic implications of a national healthcare policy shift, such as transitioning from a fee-for-service model to a value-based care system, influence the long-term sustainability of he",
+      "sic_score": 0.0879,
+      "base_score": 0.0879,
+      "delta": 0.0
+    },
+    {
+      "question": "How does the photoelectric effect in quantum physics relate to the process of photosynthesis in plant biology, considering the role of photon energy absorption and electron transport chains in both sy",
+      "sic_score": 0.0833,
+      "base_score": 0.0809,
+      "delta": 0.0024
+    },
+    {
+      "question": "In the context of 3D printing, when filament is not being extruded properly, how can the use of a custom memset32() function in firmware development help resolve the issue, considering the interaction",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "How can an engineer optimize the design of a renewable energy grid to minimize infrastructure costs while ensuring economic viability through long-term return on investment analysis?",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "When asynchronously loading a BitmapImage in C# using WPF, how can you ensure compliance with copyright laws regarding the use of embedded images in ID3v2 tags parsed from third-party sources in Java ",
+      "sic_score": 0.129,
+      "base_score": 0.1236,
+      "delta": 0.0054
+    },
+    {
+      "question": "How do the metabolic trade-offs in mycorrhizal fungi symbiosis influence the economic viability of sustainable agriculture practices in developing economies?",
+      "sic_score": 0.0562,
+      "base_score": 0.0559,
+      "delta": 0.0003
+    },
+    {
+      "question": "How can I integrate a RDF graph rendering tool into a large-scale application with 50 modules, particularly focusing on modules related to communication and data visualization, to ensure seamless incl",
+      "sic_score": 0.0819,
+      "base_score": 0.0824,
+      "delta": -0.0005
+    },
+    {
+      "question": "How can the principles of cellular transport mechanisms in biology be applied to optimize the design of microfluidic devices in engineering, particularly in enhancing the efficiency of nutrient delive",
+      "sic_score": 0.0833,
+      "base_score": 0.0828,
+      "delta": 0.0005
+    },
+    {
+      "question": "In the context of genetic engineering, how do the legal frameworks surrounding bioprospecting and intellectual property rights influence the ethical and practical challenges of accessing and utilizing",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of genetic regulatory networks, how can we design a computational model that dynamically infers gene interactions from high-throughput expression data, while ensuring the algorithm's ti",
+      "sic_score": 0.0663,
+      "base_score": 0.0659,
+      "delta": 0.0004
+    },
+    {
+      "question": "When I use Emacs I want to be able to easily display and navigate through a list of files I worked on from not just the current session but from previous sessions. Is it legal for a thread to call thi",
+      "sic_score": 0.0546,
+      "base_score": 0.0546,
+      "delta": 0.0
+    },
+    {
+      "question": "In the context of genetic modification, how does the legal framework of the Cartagena Protocol on Biosafety interact with the biological mechanisms of horizontal gene transfer in transgenic organisms,",
+      "sic_score": 0.092,
+      "base_score": 0.0914,
+      "delta": 0.0005
+    },
+    {
+      "question": "A 65-year-old man with diabetes and hypertension is scheduled for cataract surgery in 3 weeks. What legal considerations must be addressed in his pre-operative evaluation to ensure informed consent, p",
+      "sic_score": 0.033,
+      "base_score": 0.0347,
+      "delta": -0.0017
+    },
+    {
+      "question": "How can I dynamically hide/show columns in an NSTableView based on data emptiness while ensuring the underlying data model remains consistent with functional programming principles in Haskell, conside",
+      "sic_score": 0.0749,
+      "base_score": 0.0741,
+      "delta": 0.0008
+    },
+    {
+      "question": "In the context of quantum physics, how might the principles of superposition and entanglement influence the interpretation of legal contracts, particularly in terms of ambiguity and enforceability und",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of a legal dispute involving a multinational corporation, how might principles of quantum entanglement and wave-particle duality from physics be leveraged to argue for or against the en",
+      "sic_score": 0,
+      "base_score": 0,
+      "delta": 0
+    },
+    {
+      "question": "In the context of digital forensics, how can principles of quantum physics, such as quantum entanglement and wavefunction collapse, be applied to create an unforgeable digital watermarking system that",
+      "sic_score": 0.0682,
+      "base_score": 0.0678,
+      "delta": 0.0004
+    },
+    {
+      "question": "How can CRISPR-Cas9 technology be utilized in conjunction with machine learning algorithms to enhance the precision of gene editing in human cells while ensuring the ethical implications of such advan",
+      "sic_score": 0.1064,
+      "base_score": 0.107,
+      "delta": -0.0006
+    },
+    {
+      "question": "How can CRISPR-Cas9 gene editing technology be modeled using computational algorithms commonly employed in distributed systems, and what are the implications for parallel processing in biological data",
+      "sic_score": 0.0805,
+      "base_score": 0.0791,
+      "delta": 0.0014
+    },
+    {
+      "question": "In the context of genetic regulatory networks, how can principles of exception handling in C++ inform the design of fault-tolerant systems for gene expression\u8c03\u63a7, particularly in scenarios where mutati",
+      "sic_score": 0.1081,
+      "base_score": 0.0865,
+      "delta": 0.0216
+    }
+  ],
+  "mean_sic": 0.0436,
+  "mean_base": 0.0421,
+  "mean_delta": 0.0015,
+  "positive_delta_pct": 27.0
+}

@@ -1,0 +1,94 @@
+{
+  "physics\u00d7legal": {
+    "mean_sps": 0.2122,
+    "mean_css": 0.9857
+  },
+  "physics\u00d7cs": {
+    "mean_sps": 0.2332,
+    "mean_css": 0.9919
+  },
+  "biology\u00d7legal": {
+    "mean_sps": 0.1586,
+    "mean_css": 0.9821
+  },
+  "cs\u00d7legal": {
+    "mean_sps": 0.2131,
+    "mean_css": 0.9571
+  },
+  "cs\u00d7economics": {
+    "mean_sps": 0.1874,
+    "mean_css": 0.9464
+  },
+  "engineering\u00d7legal": {
+    "mean_sps": 0.1594,
+    "mean_css": 0.9926
+  },
+  "biology\u00d7economics": {
+    "mean_sps": 0.2561,
+    "mean_css": 0.9919
+  },
+  "biology\u00d7medical": {
+    "mean_sps": 0.1251,
+    "mean_css": 0.97
+  },
+  "medical\u00d7legal": {
+    "mean_sps": 0.1311,
+    "mean_css": 0.9559
+  },
+  "engineering\u00d7medical": {
+    "mean_sps": 0.1438,
+    "mean_css": 0.9439
+  },
+  "engineering\u00d7cs": {
+    "mean_sps": 0.1485,
+    "mean_css": 0.9485
+  },
+  "economics\u00d7medical": {
+    "mean_sps": 0.1459,
+    "mean_css": 0.9924
+  },
+  "physics\u00d7engineering": {
+    "mean_sps": 0.1299,
+    "mean_css": 0.99
+  },
+  "physics\u00d7biology": {
+    "mean_sps": 0.2272,
+    "mean_css": 0.9297
+  },
+  "engineering\u00d7economics": {
+    "mean_sps": 0.1927,
+    "mean_css": 0.9773
+  },
+  "cs\u00d7medical": {
+    "mean_sps": 0.1061,
+    "mean_css": 0.8851
+  },
+  "physics\u00d7medical": {
+    "mean_sps": 0.1446,
+    "mean_css": 0.9709
+  },
+  "physics\u00d7economics": {
+    "mean_sps": 0.1981,
+    "mean_css": 0.9741
+  },
+  "biology\u00d7cs": {
+    "mean_sps": 0.2418,
+    "mean_css": 0.9583
+  },
+  "biology\u00d7engineering": {
+    "mean_sps": 0.2143,
+    "mean_css": 1.0
+  },
+  "economics\u00d7legal": {
+    "mean_sps": 0.2132,
+    "mean_css": 1.0
+  },
+  "cs\u00d7physics": {
+    "mean_sps": 0.0,
+    "mean_css": 0.75
+  },
+  "unknown\u00d7unknown": {
+    "mean_sps": 0.0,
+    "mean_css": 0.0
+  }
+}

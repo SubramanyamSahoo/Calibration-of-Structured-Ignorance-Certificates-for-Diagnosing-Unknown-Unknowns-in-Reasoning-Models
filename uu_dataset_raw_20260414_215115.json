@@ -1,0 +1,77 @@
+{
+  "count": 7347,
+  "parse_failures": 53,
+  "success_rate": 99.18,
+  "elapsed_minutes": 448.21,
+  "samples_preview": [
+    {
+      "stitched_question": "How does the quantum mechanical tunnelling effect facilitate the proton transfer in the enzymatic mechanism of ATP synthase during oxidative phosphorylation?",
+      "domain_a": "physics",
+      "domain_b": "biology",
+      "required_concepts_a": [
+        "quantum tunneling",
+        "proton transfer mechanisms"
+      ],
+      "required_concepts_b": [
+        "ATP synthase",
+        "oxidative phosphorylation"
+      ],
+      "uu_confidence": 0.8,
+      "source": "stitched"
+    },
+    {
+      "stitched_question": "How does the principle of electromagnetic induction in physics relate to the function of ion channels in cellular biology, and what implications does this have for the development of bioelectronic devices?",
+      "domain_a": "physics",
+      "domain_b": "biology",
+      "required_concepts_a": [],
+      "required_concepts_b": [],
+      "uu_confidence": 0.7,
+      "source": "stitched"
+    },
+    {
+      "stitched_question": "Considering the mechanical properties of collagen fibers in human tendons, which exhibit high tensile strength and minimal deformation under perpendicular loads, what specific molecular structure and cross-linking mechanisms in collagen contribute to its resistance to bending deformation, and how might these principles be applied to design synthetic filaments with similar mechanical characteristics for use in high-stress biomedical applications?",
+      "domain_a": "physics",
+      "domain_b": "biology",
+      "required_concepts_a": [
+        "tensile strength",
+        "bending deformation"
+      ],
+      "required_concepts_b": [
+        "collagen structure",
+        "biomechanics of tendons"
+      ],
+      "uu_confidence": 0.8,
+      "source": "stitched"
+    },
+    {
+      "stitched_question": "How does the principle of quantum superposition in physics influence the efficiency of photosynthetic energy transfer in photosystem II of plant chloroplasts, considering the role of protein-pigment interactions and the coherence of exciton states?",
+      "domain_a": "physics",
+      "domain_b": "biology",
+      "required_concepts_a": [
+        "quantum superposition",
+        "exciton coherence"
+      ],
+      "required_concepts_b": [
+        "photosystem II",
+        "protein-pigment interactions"
+      ],
+      "uu_confidence": 0.8,
+      "source": "stitched"
+    },
+    {
+      "stitched_question": "How does the quantum mechanical tunneling effect observed in enzymatic reactions influence the efficiency of ATP synthase in mitochondrial energy conversion, and what biological implications arise from the interplay between electron spin states and proton gradient dynamics in cellular respiration?",
+      "domain_a": "physics",
+      "domain_b": "biology",
+      "required_concepts_a": [
+        "quantum tunneling",
+        "electron spin states"
+      ],
+      "required_concepts_b": [
+        "ATP synthase",
+        "proton gradient"
+      ],
+      "uu_confidence": 0.8,
+      "source": "stitched"
+    }
+  ]
+}

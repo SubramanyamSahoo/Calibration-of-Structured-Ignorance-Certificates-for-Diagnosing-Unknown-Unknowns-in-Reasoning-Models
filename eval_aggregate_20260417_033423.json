@@ -1,0 +1,7 @@
+{
+  "n_eval": 735,
+  "json_valid_rate": 0.9946,
+  "mean_SPS": 0.1783,
+  "mean_CSS": 0.9667,
+  "mean_probe_uu": 0.3891
+}
